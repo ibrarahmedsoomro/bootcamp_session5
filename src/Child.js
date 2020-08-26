@@ -12,7 +12,7 @@ const Child = () => {
     return(
          <div>
 
-             <h1>This is Context</h1>
+             <h1>This is Counter is created by Context API</h1>
 
              <h4>This is a cOntext :{counterValue[0]}</h4>
 
